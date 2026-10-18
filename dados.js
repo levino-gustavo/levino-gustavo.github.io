@@ -1,16 +1,11 @@
-/* ============================================================
-   ESTE É O ÚNICO ARQUIVO QUE VOCÊ PRECISA EDITAR.
-   Altere os textos entre aspas, salve e faça commit no GitHub.
-   Cuidado para não apagar vírgulas, aspas ou colchetes.
-   ============================================================ */
-const DADOS = {
+const DADOS = { 
   nome: "Gustavo Levino",
   nomeCompleto: "Gustavo Levino Batista Oliveira Santos",
   cargo: "Estudante de Engenharia da Computação",
   frase: "Busco minha primeira oportunidade CLT em tecnologia, para aplicar o que aprendo e crescer na prática.",
   disponivel: "Disponível para oportunidades CLT",
   local: "Sorocaba, SP",
-  foto: "assets/foto.jpg", // coloque sua foto aqui; sem ela, aparecem as iniciais
+  foto: "assets/foto.jpg", //colocar minha fotinha mai tard
   curriculo: "assets/Gustavo_Levino.pdf",
 
   contatos: {
@@ -58,7 +53,7 @@ const DADOS = {
       link: "https://github.com/levino-gustavo",
       linkTexto: "Ver repositório"
     }
-    /* Para adicionar um projeto, copie um bloco acima (de { até }), coloque uma vírgula
+    /* para adicionar um projeto, copie um bloco acima (de { até }), coloque uma vírgula
        entre eles e troque os textos. */
   ],
 

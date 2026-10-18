@@ -2,8 +2,8 @@ const DADOS = {
   nome: "Gustavo Levino",
   nomeCompleto: "Gustavo Levino Batista Oliveira Santos",
   cargo: "Estudante de Engenharia da Computação",
-  frase: "Busco minha primeira oportunidade CLT em tecnologia, para aplicar o que aprendo e crescer na prática.",
-  disponivel: "Disponível para oportunidades CLT",
+  frase: "Busco minha primeira oportunidade em tecnologia, para aplicar o que aprendo e crescer na prática.",
+  disponivel: "Disponível para oportunidades",
   local: "Sorocaba, SP",
   foto: "assets/foto.jpg", //colocar minha fotinha mai tard
   curriculo: "assets/Gustavo_Levino.pdf",
@@ -11,18 +11,18 @@ const DADOS = {
   contatos: {
     email: "gustavolev@outlook.com.br",
     linkedin: "https://www.linkedin.com/in/gustavo-levino",
-    github: "https://github.com/levino-gustavo",
+    github: "https://github.com/levino-gustavo/levino-gustavo.github.io",
     whatsapp: "5515991250071"
   },
 
   bio: [
     "Sou estudante de Engenharia da Computação na Facens e tenho formação técnica em Tecnologia da Informação e em Logística, ambas pela Etec Fernando Prestes.",
-    "Na prática, já desenvolvi um site completo em HTML e CSS como TCC e apliquei a metodologia DMAIC para identificar e resolver problemas. Também uso ferramentas de Inteligência Artificial para pesquisar, analisar informações e otimizar tarefas.",
+    "Na prática, já desenvolvi um site completo em HTML e CSS como TCC (infelizmente acabou se perdendo) e apliquei a metodologia DMAIC para identificar e resolver problemas. Também uso ferramentas de Inteligência Artificial para pesquisar, analisar informações e otimizar tarefas.",
     "Atuei como Jovem Aprendiz em uma empresa de grande porte, o que me deu rotina de ambiente corporativo, responsabilidade e trabalho em equipe."
   ],
 
   objetivos: [
-    "Conseguir minha primeira vaga CLT em tecnologia",
+    "Conseguir minha primeira vaga em tecnologia",
     "Aplicar na prática o que aprendo na faculdade",
     "Contribuir com os resultados da equipe e evoluir continuamente"
   ],

@@ -58,7 +58,7 @@ Sem build, sem dependências e sem custo de hospedagem.
 ├── index.html      # estrutura, estilo e lógica da página
 ├── dados.js        # ✏️ todo o conteúdo do site (único arquivo que eu edito)
 ├── assets/
-│   ├── foto.jpg            # minha foto
+│   ├── foto.jpg            # minha foto (caso eu queira, se não ele usa as iniciais de nome e sobrenome)
 │   └── Gustavo_Levino.pdf  # currículo para download
 └── README.md
 ```
@@ -95,11 +95,13 @@ Depois é só abrir o `index.html` no navegador. Não precisa instalar nada.
 
 ## 🤝 Vamos conversar?
 
-Se a minha trajetória combina com a sua vaga, fale comigo:
+Se a minha trajetória combina com a sua vaga, fale comigo, estou sempre apto para aprender algo novo:
 
 📧 [gustavolev@outlook.com.br](mailto:gustavolev@outlook.com.br)<br>
 💼 [linkedin.com/in/gustavo-levino](https://www.linkedin.com/in/gustavo-levino)<br>
 🐙 [github.com/levino-gustavo](https://github.com/levino-gustavo)
+
+ :)
 
 <div align="center">
 

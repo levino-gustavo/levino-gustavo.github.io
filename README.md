@@ -14,7 +14,7 @@ transformando estudo em prática, um projeto de cada vez. 🚀
 [![E-mail](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gustavolev@outlook.com.br)
 [![Currículo](https://img.shields.io/badge/📄_Baixar_currículo-35C47C?style=for-the-badge)](assets/Gustavo_Levino.pdf)
 
-![Status](https://img.shields.io/badge/status-disponível_para_CLT-35C47C?style=flat-square)
+![Status](https://img.shields.io/badge/status-disponível-35C47C?style=flat-square)
 ![Local](https://img.shields.io/badge/📍_Sorocaba,_SP-555?style=flat-square)
 ![Faculdade](https://img.shields.io/badge/Facens-Eng._da_Computação-1F5FD6?style=flat-square)
 

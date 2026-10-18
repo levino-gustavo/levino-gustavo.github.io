@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5FD6,100:6CB6FF&height=200&section=header&text=Gustavo%20Levino&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Em%20busca%20da%20primeira%20vaga%20CLT%20em%20tecnologia&descSize=16&descAlignY=60" alt="Banner do portfólio de Gustavo Levino" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5FD6,100:6CB6FF&height=200&section=header&text=Gustavo%20Levino&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Em%20busca%20da%20primeira%20vaga%20em%20tecnologia&descSize=16&descAlignY=60" alt="Banner do portfólio de Gustavo Levino" />
 
 ### 👋 Olá! Eu sou o Gustavo
 

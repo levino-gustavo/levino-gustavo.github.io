@@ -1,8 +1,3 @@
-/* ============================================================
-   ESTE É O ÚNICO ARQUIVO QUE VOCÊ PRECISA EDITAR.
-   Altere os textos entre aspas, salve e faça commit no GitHub.
-   Cuidado para não apagar vírgulas, aspas ou colchetes.
-   ============================================================ */
 const DADOS = {
   nome: "Gustavo Levino",
   nomeCompleto: "Gustavo Levino Batista Oliveira Santos",
